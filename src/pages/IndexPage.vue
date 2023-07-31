@@ -60,13 +60,13 @@ export default defineComponent({
         sortable: true,
         align: "left",
       },
-      {
+      /* {
         name: "patronus",
         field: "patronus",
         label: "Patrono",
         sortable: true,
         align: "left",
-      },
+      },*/
       {
         name: "yearOfBirth",
         field: "yearOfBirth",
